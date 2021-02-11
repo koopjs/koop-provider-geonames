@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "npmClient": "npm",
+  "type": "provider",
+  "name": "koop-provider-geonames",
+  "allowedParams": {
+    "host": false,
+    "id": true
+  }
+}
