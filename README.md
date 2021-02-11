@@ -2,13 +2,7 @@
 
 A simple Koop provider for the Geonames search api.
 
-The provider's `:id` parameter should be give a value of the place name for the Geonames search.
-
-Y
-
-A minimal Koop project template from [Koop CLI](https://github.com/koopjs/koop-cli).
-
-See the [specification](https://koopjs.github.io/docs/usage/koop-core) for more details.
+The provider's `:id` parameter should be given a value that is the desired search string for Geonames API request.
 
 ## Configuration
 You will need to set a configuration value for the Geonames API user. See `config/default.json`.
